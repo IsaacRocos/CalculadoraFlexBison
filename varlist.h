@@ -17,7 +17,7 @@ typedef struct Elemento {
 
 }Variable;
 
-/* PRITOTIPOS */---------------------------------------------
+/* PRITOTIPOS ---------------------------------------------*/
 void insertarEnLista(Variable** vCabeza , float valorVar, char* nombreVar);
 Variable* nuevaVariable(float valorVar, char* nombreVar);
 void imprimirVariables();
